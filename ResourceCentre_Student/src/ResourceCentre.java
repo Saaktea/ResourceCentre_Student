@@ -6,6 +6,8 @@ public class ResourceCentre {
 			// 1 - Ryan
 		//69 - Naeem 
 		//50 - Raghupathy
+		// 4 -Razi
+		
 		ArrayList<Camcorder> camcorderList = new ArrayList<Camcorder>();
 		ArrayList<Chromebook> chromebookList = new ArrayList<Chromebook>();
 
